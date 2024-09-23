@@ -1,0 +1,8 @@
+1: https://dl.google.com/dl/cloudsdk/channels/rapid/GoogleCloudSDKInstaller.exe
+2: goto in project folder
+3: initialize : gcloud init
+4: enter choice 1 and 2
+5: enter your choice as 1 to authorise the email id of the account.
+6: select the project
+7:deploy the code: 
+gcloud app deploy app.yaml --project projectName 
